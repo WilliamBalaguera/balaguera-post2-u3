@@ -21,6 +21,6 @@ externos.
 3. Navegar a `http://localhost:5500`
 
 ## Capturas de pantalla
-![chekpoint 1](image.png)
-![chekpoint 2](image-1.png)
-![chekpoint 3](image-2.png)
+![chekpoint 1](img\image.png)
+![chekpoint 2](img\image-1.png)
+![chekpoint 3](img\image-2.png)
